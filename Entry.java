@@ -1,5 +1,5 @@
 // This class holds information about a single training session
-
+//sample entry record for trainees
 import java.util.Calendar;
 public class Entry {
   private String name;
